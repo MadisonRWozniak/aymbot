@@ -1,0 +1,23 @@
+{
+  "name": "aymbot",
+  "version": "1.0.0",
+  "description": "Custom designed Discord bot for Affirming Youth Ministries servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord",
+    "bot",
+    "AYM"
+  ],
+  "author": "Madison R. Wozniak <madisonwozniak@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  }
+}
